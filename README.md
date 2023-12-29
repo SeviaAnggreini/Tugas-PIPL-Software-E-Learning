@@ -1,7 +1,7 @@
 Login User 
 admin
-user :
-pass :
+user : azel@gmail.com
+pass : 123
 Dosen
 user : dosen@gmail.com
 pass : 1234
